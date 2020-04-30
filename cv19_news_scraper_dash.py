@@ -97,5 +97,5 @@ if __name__ == "__main__":
     client_list = ['NAB','CBA','ANZ','Westpac']
     cn = coronavirus_news_aggregator()
     df = cn.client_c19_news_agg(client_list=client_list)
-    df.to_csv('client_sentiment_2.csv')
+    df.to_csv('client_sentiment.csv')
     print("Done!!!")

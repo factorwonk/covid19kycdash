@@ -1,0 +1,401 @@
+,Client,Date,Headline,Source,VADER Score,neg,neu,pos
+0,NAB,2020-04-17,NAB's McEwan vows fight to save jobs in bank restructure , Sydney Morning Herald,0.1531,0.188,0.58,0.232
+1,NAB,2020-03-24,NAB worker sacked over false coronavirus test , The New Daily,0.0,0.0,1.0,0.0
+2,NAB,2020-04-14,"A huge hit to the business sector from coronavirus, NAB anticipates ", Property Observer,0.3182,0.0,0.796,0.204
+3,NAB,2020-04-03,NAB expands coronavirus support to credit card and personal loan customers , Mozo.com.au,0.6908,0.0,0.544,0.456
+4,NAB,2020-04-14,"ASX lifts, while collapse in business confidence points to 'unprecedented' recession: NAB report ", ABC News,-0.4019,0.311,0.518,0.171
+5,NAB,2020-03-23,"Coronavirus ASX: Coles, BHP Up, CBA, Westpac, NAB, Afterpay Fall ", Canstar,0.0,0.0,1.0,0.0
+6,NAB,2020-03-20,"The big four banks are letting borrowers hit pause on their payments, but this is no mortgage holiday ", ABC News,0.1901,0.125,0.716,0.159
+7,NAB,2020-03-20,Coronavirus crisis sees Banking Association announce six-month loan repayment deferrals for small businesses , ABC News,-0.6249,0.255,0.745,0.0
+8,NAB,2020-04-02,"Consumer anxiety on the rise as coronavirus impacts economy, NAB survey shows ", Domain News,-0.1779,0.134,0.866,0.0
+9,NAB,2020-03-20,Coronavirus: NAB allows homeowners to defer repayments for 6 months , NEWS.com.au,-0.296,0.216,0.784,0.0
+10,NAB,2020-03-26,Are banks freezing mortgages? Here are the banks putting payments on hold amid coronavirus , ABC News,-0.1027,0.097,0.903,0.0
+11,NAB,2020-03-19,Big four banks set to announce coronavirus package , 7NEWS.com.au,0.0,0.0,1.0,0.0
+12,NAB,2020-03-23,NAB's Anthony Healy quits after leading virus response team , The Australian Financial Review,0.0,0.0,1.0,0.0
+13,NAB,2020-03-31,NAB to offer emergency business loans , Australian Broker,-0.3818,0.342,0.658,0.0
+14,NAB,2020-03-25,Projects cut at NAB to focus on customer needs during coronavirus crisis , The Australian,-0.7351,0.383,0.617,0.0
+15,NAB,2020-03-24,NAB says Australia ‘can cope’ as coronavirus panic buying spikes food consumption , The Australian,-0.5106,0.231,0.769,0.0
+16,NAB,2020-04-18,Shehbaz skips NAB hearing due to coronavirus , Daily Times,0.0,0.0,1.0,0.0
+17,NAB,2020-03-23,NAB Cancels 2020 Show Because of Coronavirus After Initially Postponing Event , Commercial Integrator,-0.34,0.274,0.726,0.0
+18,NAB,2020-04-07,Fitch Downgrades NAB to 'A+' on Coronavirus Risks; Outlook Negative , Fitch Ratings,-0.7003,0.42,0.58,0.0
+19,NAB,2020-03-24,Big bank coronavirus support: How to defer your mortgage repayments , Mozo.com.au,0.128,0.171,0.62,0.209
+20,NAB,2020-03-26,Coronavirus pushes up contactless payment limit to contain virus spread , 7NEWS.com.au,0.0,0.0,1.0,0.0
+21,NAB,2020-03-24,RUSH HOUR: NAB worker sacked after faking having coronavirus , NEWS.com.au,-0.4215,0.259,0.741,0.0
+22,NAB,2020-03-30,AFL secures financial help from banks as impact of coronavirus pandemic hits home , ABC News,0.6124,0.0,0.688,0.312
+23,NAB,2020-04-07,NAB ramps up temporary branch closures , Sydney Morning Herald,0.0,0.0,1.0,0.0
+24,NAB,2020-03-20,NAB: Unprecedented Backing for Coronavirus PSAs , Broadcasting & Cable,0.0258,0.0,0.82,0.18
+25,NAB,2020-03-24,"Australia has plenty of food, but some shortages pose risks, says NAB ", The Weekly Times,-0.5499,0.313,0.687,0.0
+26,NAB,2020-03-25,NAB backs COVID-19 SME guarantee , The Australian Financial Review,0.2023,0.194,0.484,0.323
+27,NAB,2020-03-24,"NAB, Westpac and Commonwealth bank to close bank branches due to coronavirus ", Daily Mail,0.0,0.0,1.0,0.0
+28,NAB,2020-03-27,Coronavirus crisis job losses will raise mortgage stress more than the GFC did: analysts , ABC News,-0.8625,0.466,0.534,0.0
+29,NAB,2020-03-31,"Coronavirus: NAB’s wealth arm, MLC, waives adviser licence fees for three months ", The Australian,0.4939,0.0,0.775,0.225
+30,NAB,2020-03-24,Coronavirus cases in Victoria rise to more than 400 as Minister warns 'thousands' could die , ABC News,-0.6486,0.29,0.71,0.0
+31,NAB,2020-04-02,"Banks drag Australian market lower, IMF warns wartime measures are needed due to coronavirus fallout ", ABC News,-0.5423,0.314,0.686,0.0
+32,NAB,2020-03-24,How Australian banks are responding to coronavirus - Business Insider , Business Insider Nordic,0.0,0.0,1.0,0.0
+33,NAB,2020-04-03,It’s lonely at the top for NAB boss Ross McEwan as nation locks down , The Australian,-0.1779,0.153,0.736,0.11
+34,NAB,2020-04-15,NAB business confidence reading falls to a record low of minus 66 following coronavirus shutdowns , Daily Mail,0.296,0.121,0.69,0.19
+35,NAB,2020-03-23,Banks are bleeding as they take a bullet for the economy , Sydney Morning Herald,0.0,0.0,1.0,0.0
+36,NAB,2020-03-20,How a universal basic income could help 25 million workers at threat from coronavirus , ABC News,-0.1779,0.199,0.643,0.158
+37,NAB,2020-03-20,NAB Show 2020 Won't Be Rescheduled , Broadcasting & Cable,0.0,0.0,1.0,0.0
+38,NAB,2020-03-28,Will the economic crisis caused by coronavirus reshape our idea of a depression? , ABC News,-0.8316,0.438,0.562,0.0
+39,NAB,2020-04-15,Freezing public servant wages in response to coronavirus is just a sop , The Guardian,-0.1027,0.123,0.877,0.0
+40,NAB,2020-03-21,THE NEW ABNORMAL: Day 57 of the coronavirus crisis , 7NEWS.com.au,-0.6249,0.339,0.661,0.0
+41,NAB,2020-03-28,NAB offers SMEs new $250000 low-rate loans , Mirage News,0.0,0.0,1.0,0.0
+42,NAB,2020-04-01,NAB CEO says the bank is doing 'enough at this point in time' , 3AW,0.0,0.0,1.0,0.0
+43,NAB,2020-03-20,NAB Pauses Home Loans Amidst Coronavirus Global Pandemic , NovaFM,0.0,0.0,1.0,0.0
+44,NAB,2020-04-07,The Aussies suffering the most from isolation anxiety , Daily Telegraph,-0.793,0.617,0.383,0.0
+45,NAB,2020-04-03,Coronavirus: What you need to know about credit in a pandemic , The New Daily,0.3818,0.0,0.776,0.224
+46,NAB,2020-03-26,Victorian Chief Health Officer pushes for tougher coronavirus shutdown as state records first COVID-19 deaths , ABC News,0.1779,0.0,0.892,0.108
+47,NAB,2020-03-30,ASX 200 surges in 'stereotypical bear market' amid rising coronavirus infections , ABC News,0.0,0.0,1.0,0.0
+48,NAB,2020-04-14,Coronavirus support: What the Big Four banks are offering households and businesses , The New Daily,0.4019,0.0,0.803,0.197
+49,NAB,2020-03-23,Coronavirus: Bank shares battered amid bad debt fears , The Australian,-0.765,0.587,0.267,0.147
+50,NAB,2020-04-17,ATVA Says Congress Should Reject NAB's Relief Proposal , TV Technology,0.1027,0.229,0.508,0.263
+51,NAB,2020-03-20,"Coronavirus live updates: Prime Minister Scott Morrison announces the Federal Budget will be delayed until October, new social distancing measures ", ABC News,-0.2263,0.091,0.909,0.0
+52,NAB,2020-04-14,IMF predicts virus-driven collapse as business confidence plunges to lowest level in history , The New Daily,-0.3612,0.304,0.524,0.173
+53,NAB,2020-04-10,Police pounce on people ignoring COVID-19 travel advice , Tasmania Examiner,-0.4019,0.278,0.722,0.0
+54,NAB,2020-04-01,Is your money safe in Australian banks during the coronavirus pandemic? , ABC News,0.4404,0.0,0.775,0.225
+55,NAB,2020-03-27,ASX slumps 5.3; NAB sees jobless rate at 12pc , The Australian Financial Review,0.0,0.0,1.0,0.0
+56,NAB,2020-03-30,"Coronavirus: What we know today, March 30 ", InDaily,0.0,0.0,1.0,0.0
+57,NAB,2020-03-20,Banks promise to back customers through the crisis , The Australian Financial Review,-0.4215,0.331,0.484,0.185
+58,NAB,2020-03-20,Coronavirus live updates , The Australian Financial Review,0.0,0.0,1.0,0.0
+59,NAB,2020-03-26,Will ASX banks be forced to close branches during the coronavirus crisis? , The Motley Fool Australia,-0.7964,0.415,0.585,0.0
+60,NAB,2020-03-20,Australian small businesses to get loan relief amid COVID-19 outbreak , SBS News,0.4767,0.0,0.744,0.256
+61,NAB,2020-04-12,Coronavirus: Are the big ASX banks a buy for dividends? , Motley Fool Australia,0.0,0.0,1.0,0.0
+62,NAB,2020-04-01,Coronavirus: Another sign the ASX banks will probably cut dividends , Motley Fool Australia,-0.2732,0.189,0.811,0.0
+63,NAB,2020-03-21,House prices in Australia could drop up to 20% due to coronavirus , Savings.com.au,-0.2732,0.16,0.84,0.0
+64,NAB,2020-04-17,Small Broadcasters Say Relief Isn't Meant For Conglomerates , Law360,0.4767,0.0,0.693,0.307
+65,NAB,2020-04-18,Three health workers attacked in Indore amid coronavirus pandemic , Deccan Herald,-0.4588,0.273,0.727,0.0
+66,NAB,2020-04-01,ASX surges as Reserve Bank warns of 'sharp contraction' from coronavirus , ABC News,-0.1027,0.123,0.877,0.0
+67,NAB,2020-04-06,"Less food poisoning, more cybercrime: the unintended consequences of the coronavirus shutdown ", SBS News,-0.5456,0.243,0.757,0.0
+68,NAB,2020-03-24,Why the Big Four Banks may be about to slash their dividends , ig.com,-0.2732,0.16,0.84,0.0
+69,NAB,2020-03-22,AFL season shut-down: Doubts over footy in 2020 after 'unprecedented' coronavirus threat , The Age,-0.6808,0.359,0.641,0.0
+70,NAB,2020-03-26,NAB's Smith: Virus Puts Broadcasters on Crisis Footing , Broadcasting & Cable,-0.6249,0.369,0.631,0.0
+71,NAB,2020-03-26,"Coronavirus hit almost half of Australian businesses even before social distancing, ABS reveals ", ABC News,0.0,0.0,1.0,0.0
+72,NAB,2020-03-23,"Why Afterpay, JB Hi-Fi, NAB, & Village Roadshow shares are crashing lower ", Motley Fool Australia,0.0,0.164,0.672,0.164
+73,NAB,2020-04-02,"Anxious consumers ripe for change, NAB index finds ", The Australian,-0.25,0.222,0.778,0.0
+74,NAB,2020-03-30,Banks try to stop wave of evictions with loan delays for landlords , Sydney Morning Herald,-0.296,0.167,0.833,0.0
+75,NAB,2020-04-08,Investors warned banks could suspend dividends , The Age,-0.5267,0.524,0.476,0.0
+76,NAB,2020-03-25,Open or closed: status of key Geelong services , Geelong Advertiser,0.0,0.0,1.0,0.0
+77,NAB,2020-04-02,Avid Delays NAB News to Concentrate on Pandemic , TV Technology,0.296,0.0,0.761,0.239
+78,NAB,2020-04-06,"NAB receives 50,000 loan relief requests - The Adviser ", The Adviser,0.4767,0.0,0.693,0.307
+79,NAB,2020-03-29,Ross McEwan: Quick $250k loans part of our response to crisis , The Australian,-0.6249,0.291,0.709,0.0
+80,NAB,2020-03-25,Victorians warned of life under lockdown as coronavirus measures tighten , Herald Sun,-0.2732,0.189,0.811,0.0
+81,NAB,2020-04-15,Everything To Know About Your Mortgage And Rent Payments During Covid-19 , GQ Australia,0.0,0.0,1.0,0.0
+82,NAB,2020-03-21,"Coronavirus: 10.2% dividend yield, is the CBA share price a buy? ", Motley Fool Australia,0.296,0.0,0.804,0.196
+83,NAB,2020-03-26,"ASX 200 lunch update: Brickworks & NAB higher, Cochlear returns ", Motley Fool Australia,0.0,0.0,1.0,0.0
+84,NAB,2020-03-27,How Geoff Lloyd is running MLC from his dining room , The Australian Financial Review,0.0,0.0,1.0,0.0
+85,NAB,2020-04-02,Businesses eagerly wait for JobKeeper payments as coronavirus fallout begins to hit incomes , ABC News,0.3818,0.0,0.822,0.178
+86,NAB,2020-03-25,Man Charged After Allegedly Pretending He Had Coronavirus And Coughed On A Police Officer , WSFM,-0.1027,0.127,0.775,0.099
+87,NAB,2020-03-25,"NAB Show 2020 goes online, New York will be enhanced ", RedShark News,0.0,0.0,1.0,0.0
+88,NAB,2020-04-17,Low Aussie dollar and high domestic demand are good news for agriculture , Country News,0.0772,0.232,0.581,0.187
+89,NAB,2020-03-23,"Coronavirus stimulus: Now that we’re serious, what needs to happen next ", The New Daily,-0.0772,0.115,0.885,0.0
+90,NAB,2020-03-20,Aussie share market soars by $50 billion as investors flood market with optimism , 9News,0.6908,0.0,0.659,0.341
+91,NAB,2020-03-25,"Coronavirus updates LIVE: Victoria COVID-19 cases surge past 450, Scott Morrison flags elective surgery cancellation ", The Age,0.0,0.0,1.0,0.0
+92,NAB,2020-04-18,"No intention to arrest Shehbaz Sharif, says NAB spokesman ", ARY NEWS,-0.5574,0.397,0.603,0.0
+93,NAB,2020-03-31,Thieves nab Van Gogh painting from closed museum , The New Daily,-0.5106,0.32,0.68,0.0
+94,NAB,2020-04-16,Bendigo Drops Guidance As Macquarie Analysts Warn On Banks , ShareCafe,-0.1027,0.149,0.851,0.0
+95,NAB,2020-03-20,How the big four banks are responding to the coronavirus crisis , RateCity,-0.6249,0.291,0.709,0.0
+96,NAB,2020-03-23,"Coronavirus stimulus: What $66 billion package means for workers, business ", NEWS.com.au,0.0,0.0,1.0,0.0
+97,NAB,2020-03-24,Coronavirus Sydney: COVID-19 quarantine orders to be policed , Daily Telegraph,0.0,0.0,1.0,0.0
+98,NAB,2020-03-17,NAB HQ evacuated after worker contracts coronavirus , The New Daily,0.0,0.0,1.0,0.0
+99,NAB,2020-03-24,Renters desperate for relief as 1 million jobs set to disappear due to coronavirus , ABC News,-0.0258,0.243,0.578,0.179
+0,CBA,2020-03-19,Commonwealth Bank boss says the spread of coronavirus will have a worse impact than the global financial crisis , ABC News,-0.802,0.324,0.676,0.0
+1,CBA,2020-04-16,"Sydney, Melbourne house prices facing 10 per cent fall: CBA ", Brisbane Times,0.0,0.0,1.0,0.0
+2,CBA,2020-04-14,Hoarding boom is over: CBA says shoppers have closed their wallets , The Age,0.0,0.0,1.0,0.0
+3,CBA,2020-03-24,Business orders crash on coronavirus: CBA index , The Australian Financial Review,-0.4019,0.31,0.69,0.0
+4,CBA,2020-04-02,CBA increases coronavirus loan support , Daily Telegraph,0.4019,0.0,0.597,0.403
+5,CBA,2020-03-31,Coronavirus: CBA report reveals what we’re buying during pandemic , NEWS.com.au,0.0,0.0,1.0,0.0
+6,CBA,2020-04-16,Coronavirus Sees CBA Automatically Cut Mortgage Payments to Minimum , Canstar,-0.2732,0.208,0.792,0.0
+7,CBA,2020-03-23,"Coronavirus ASX: Coles, BHP Up, CBA, Westpac, NAB, Afterpay Fall ", Canstar,0.0,0.0,1.0,0.0
+8,CBA,2020-04-17,Markets House Prices to Fall 10pc: CBA Ted Tabet 3 Min , The Urban Developer,0.0,0.0,1.0,0.0
+9,CBA,2020-04-13,'Curve flattening' for big bank stimulus , The Australian Financial Review,0.0,0.0,1.0,0.0
+10,CBA,2020-03-21,"Coronavirus: 10.2% dividend yield, is the CBA share price a buy? ", Motley Fool Australia,0.296,0.0,0.804,0.196
+11,CBA,2020-04-14,Commbank's benefit finder tool sees spike in demand during coronavirus crisis , Savings.com.au,-0.3818,0.337,0.482,0.181
+12,CBA,2020-03-19,Big four banks set to announce coronavirus package , 7NEWS.com.au,0.0,0.0,1.0,0.0
+13,CBA,2020-03-25,Commonwealth bank closes branches as community struggles with coronavirus , Mirage News,-0.3612,0.238,0.762,0.0
+14,CBA,2020-03-23,CBA 'looking at' cutting credit card rates , The Canberra Times,0.2732,0.165,0.549,0.286
+15,CBA,2020-03-26,Coronavirus pushes up contactless payment limit to contain virus spread , 7NEWS.com.au,0.0,0.0,1.0,0.0
+16,CBA,2020-03-26,CBA launches coronavirus comms campaign after eight-fold growth in... , Finextra,0.3818,0.0,0.755,0.245
+17,CBA,2020-03-24,"CBA reaches out for call centre staff from Qantas, Virgin as coronavirus hardship demand rises ", The Australian,-0.3818,0.224,0.706,0.071
+18,CBA,2020-03-26,Are banks freezing mortgages? Here are the banks putting payments on hold amid coronavirus , ABC News,-0.1027,0.097,0.903,0.0
+19,CBA,2020-03-20,"The big four banks are letting borrowers hit pause on their payments, but this is no mortgage holiday ", ABC News,0.1901,0.125,0.716,0.159
+20,CBA,2020-04-15,"Coronavirus has people buying home improvement items over alcohol, data shows ", NEWS.com.au,0.4588,0.0,0.769,0.231
+21,CBA,2020-03-31,Coronavirus bank loans: what’s on offer for Australian home owners and small business , The Guardian,0.0,0.0,1.0,0.0
+22,CBA,2020-03-20,Coronavirus crisis sees Banking Association announce six-month loan repayment deferrals for small businesses , ABC News,-0.6249,0.255,0.745,0.0
+23,CBA,2020-04-06,Businesses can 'tread water' for six months: CBA , Sydney Morning Herald,0.0,0.0,1.0,0.0
+24,CBA,2020-04-13,"Cries for mortgage help 'levelling out', says CBA boss ", Sydney Morning Herald,0.0,0.218,0.565,0.218
+25,CBA,2020-04-03,'I will never let you down': Matt Comyn prepares to battle pandemic , The Australian Financial Review,-0.3818,0.191,0.809,0.0
+26,CBA,2020-04-06,CBA approves $150 million in business loans under Coronavirus SME Guarantee Scheme , Mirage News,0.5719,0.0,0.68,0.32
+27,CBA,2020-03-20,Big banks may allow up to six months in deferred mortgage repayments , Sydney Morning Herald,0.2263,0.0,0.853,0.147
+28,CBA,2020-04-14,Coronavirus support: What the Big Four banks are offering households and businesses , The New Daily,0.4019,0.0,0.803,0.197
+29,CBA,2020-04-14,Coronavirus mortgage repayment relief and support packages , finder.com.au,0.7003,0.0,0.463,0.537
+30,CBA,2020-04-02,CommBank to stop coronavirus-impacted customers from paying compound interest on loans , Sky News Australia,0.2023,0.155,0.634,0.211
+31,CBA,2020-03-24,"Business, key services cop coronavirus spending hit ", The Australian Financial Review,0.0,0.0,1.0,0.0
+32,CBA,2020-04-14,CBA company executives take pay cut due to coronavirus pandemic , China.org.cn,-0.3612,0.304,0.696,0.0
+33,CBA,2020-04-03,Coronavirus puts blue-chip dividends under the microscope , The Australian Financial Review,0.0,0.0,1.0,0.0
+34,CBA,2020-04-08,Coronavirus: contaminated money fears push Australia to card payments and cashless shopping , The Guardian,-0.4215,0.203,0.797,0.0
+35,CBA,2020-03-20,"Jeremy Lin, others returning to China for league’s restart after coronavirus hiatus ", Yahoo Sports,0.0,0.0,1.0,0.0
+36,CBA,2020-04-02,"Banks drag Australian market lower, IMF warns wartime measures are needed due to coronavirus fallout ", ABC News,-0.5423,0.314,0.686,0.0
+37,CBA,2020-03-27,What the NBA can learn from China's attempt to restart basketball during the coronavirus pandemic , ESPN Australia,0.0,0.0,1.0,0.0
+38,CBA,2020-04-16,ASX to rise; Trump pushing to reopen economy , The Australian Financial Review,0.0,0.0,1.0,0.0
+39,CBA,2020-04-15,The CEOs stepping up in response to COVID-19 , The Australian Financial Review,0.0,0.0,1.0,0.0
+40,CBA,2020-03-30,CBA to deliver more support measures to help more businesses , Mirage News,0.6901,0.0,0.584,0.416
+41,CBA,2020-03-24,"Australia CBA PMI composite dropped to 40.7, increasing impact of coronavirus ", Action Forex,0.0,0.0,1.0,0.0
+42,CBA,2020-03-19,CBA first to reduce home loan rates after historic RBA cut , Canstar,-0.2732,0.174,0.826,0.0
+43,CBA,2020-03-22,CBA to extend up to $10bn additional support to small businesses , Mirage News,0.5267,0.0,0.672,0.328
+44,CBA,2020-03-22,Banks prepare SME lending blitz , The Australian Financial Review,0.0,0.0,1.0,0.0
+45,CBA,2020-04-17,"Why did the official unemployment rate barely rise in March, despite coronavirus spurring job losses? ", ABC News,-0.6808,0.301,0.699,0.0
+46,CBA,2020-04-12,"Don't ease restrictions too early, warns CBA's Catherine Livingstone ", The Australian Financial Review,-0.3632,0.334,0.666,0.0
+47,CBA,2020-03-31,Chinese Basketball Association delays season restart due to coronavirus: Could it influence how U.S. sports handle return? , Yahoo News Australia,0.0,0.0,1.0,0.0
+48,CBA,2020-04-08,Digital wallet transactions soaring: CBA , Yahoo Finance Australia,0.0,0.0,1.0,0.0
+49,CBA,2020-03-30,CBA: Concern about grocery shortages eases as more Americans feel their pantries are well-stocked - FoodNavigator,USA.com,0.1779,0.095,0.769,0.136
+50,CBA,2020-03-20,Coronavirus crisis: Finally some relief for savers , The Australian,-0.25,0.336,0.41,0.254
+51,CBA,2020-03-24,"NAB, Westpac and Commonwealth bank to close bank branches due to coronavirus ", Daily Mail,0.0,0.0,1.0,0.0
+52,CBA,2020-04-01,"Coronavirus: China orders Chinese Basketball Association, other sports to delay return, per report ", CBS Sports,-0.3182,0.161,0.839,0.0
+53,CBA,2020-04-03,375000 join big banks' COVID-19 loan holiday , The Australian Financial Review,0.5994,0.0,0.505,0.495
+54,CBA,2020-03-31,ABA expands COVID-19 relief for businesses , Australian Broker,0.5423,0.0,0.471,0.529
+55,CBA,2020-04-13,CBA's benefit finder sees surge in demand , 7NEWS.com.au,0.3612,0.158,0.526,0.316
+56,CBA,2020-04-02,More than half a million Aussies to lose jobs: CBA economists , 9News,-0.4019,0.231,0.769,0.0
+57,CBA,2020-03-26,I would buy Commonwealth Bank and these ASX dividend shares , The Motley Fool Australia,0.296,0.0,0.784,0.216
+58,CBA,2020-04-18,"NBA, NBPA reach agreement on reduced player payment plan as coronavirus keeps league in holding pattern ", Sporting News,0.5106,0.0,0.765,0.235
+59,CBA,2020-03-30,Coronavirus: big four banks extend business loan deferrals , The Australian,0.1779,0.0,0.805,0.195
+60,CBA,2020-03-20,How the big four banks are responding to the coronavirus crisis , RateCity,-0.6249,0.291,0.709,0.0
+61,CBA,2020-03-26,Will ASX banks be forced to close branches during the coronavirus crisis? , The Motley Fool Australia,-0.7964,0.415,0.585,0.0
+62,CBA,2020-03-24,Why the Big Four Banks may be about to slash their dividends , ig.com,-0.2732,0.16,0.84,0.0
+63,CBA,2020-04-07,Why the Big Four Banks may suspend or reduce their dividends , ig.com,-0.3182,0.187,0.813,0.0
+64,CBA,2020-04-17,"Coronavirus Notes: Disney, Face Masks, Weems, China ", hoopsrumors.com,0.0,0.0,1.0,0.0
+65,CBA,2020-03-20,Coronavirus update: Californian residents ordered to stay at home as concerns mount for passengers of cruise ship that docked in Sydney , ABC News,0.0,0.0,1.0,0.0
+66,CBA,2020-04-12,Coronavirus: Are the big ASX banks a buy for dividends? , Motley Fool Australia,0.0,0.0,1.0,0.0
+67,CBA,2020-04-02,APRA says bank dividends an issue for boards , The Australian Financial Review,0.0,0.0,1.0,0.0
+68,CBA,2020-04-03,Major to refund interest on deferred repayments , Australian Broker,0.4588,0.0,0.667,0.333
+69,CBA,2020-04-06,Coronavirus: Data shows major drop in consumer spending and panic buying decreases , 9News,-0.6597,0.351,0.649,0.0
+70,CBA,2020-03-30,Banks seek leadership role amid COVID-19 emergency , The Australian Financial Review,-0.3818,0.302,0.698,0.0
+71,CBA,2020-04-06,Should you buy things on a credit card during coronavirus? , Motley Fool Australia,0.3818,0.0,0.755,0.245
+72,CBA,2020-03-23,Coronavirus: Bank shares battered amid bad debt fears , The Australian,-0.765,0.587,0.267,0.147
+73,CBA,2020-04-15,Everything To Know About Your Mortgage And Rent Payments During Covid-19 , GQ Australia,0.0,0.0,1.0,0.0
+74,CBA,2020-03-29,The easiest and quickest way to halve mortgage repayments during the coronavirus crisis , The New Daily,-0.3182,0.229,0.615,0.156
+75,CBA,2020-04-17,Supporting customers in a time of need , Mirage News,0.4404,0.0,0.633,0.367
+76,CBA,2020-03-22,NBA considering clause to cut player salaries due to ongoing coronavirus crisis , Daily Telegraph,-0.7351,0.383,0.617,0.0
+77,CBA,2020-04-08,Coronavirus is changing the way we bank , The Australian,0.0,0.0,1.0,0.0
+78,CBA,2020-03-26,Australian share market slumps ahead of global rescue plan to fight coronavirus , ABC News,0.4404,0.152,0.526,0.322
+79,CBA,2020-04-01,"ASX 200 lunch update: CBA, Oil Search, & Scentre higher ", Motley Fool Australia,0.0,0.0,1.0,0.0
+80,CBA,2020-03-20,Friday COVID-19 update: AFL wants government handout , Bay 93.9,0.0,0.0,1.0,0.0
+81,CBA,2020-04-17,"As Australia self-isolates from the world, economic recovery hangs in the balance ", Sydney Morning Herald,0.0,0.0,1.0,0.0
+82,CBA,2020-03-26,"Why AMP, CBA, Northern Star, & Vicinity shares are dropping lower ", The Motley Fool Australia,0.0,0.177,0.645,0.177
+83,CBA,2020-03-23,Major banks to offer $250000 loans to small Australian businesses , ABC Local,0.0,0.0,1.0,0.0
+84,CBA,2020-03-26,"Are ASX dividend shares like BHP, NCM & CBA worth the risk? ", Rask Media,0.5423,0.134,0.446,0.42
+85,CBA,2020-03-31,Where to invest your Commonwealth Bank dividends , Motley Fool Australia,0.0,0.0,1.0,0.0
+86,CBA,2020-03-24,"Economy facing record contraction, budget heading for $160b deficit: Westpac ", Sydney Morning Herald,-0.4019,0.231,0.769,0.0
+87,CBA,2020-04-16,Bendigo Drops Guidance As Macquarie Analysts Warn On Banks , ShareCafe,-0.1027,0.149,0.851,0.0
+88,CBA,2020-03-25,More banks ban borrowers and cut back on rate and fee promotions , The Australian Financial Review,-0.7165,0.374,0.626,0.0
+89,CBA,2020-03-25,Where you'll find 4500 jobs up for grabs , Chronicle,0.0,0.0,1.0,0.0
+90,CBA,2020-03-26,Woolworths not completely immune from virus , The Australian Financial Review,-0.2743,0.296,0.704,0.0
+91,CBA,2020-03-23,Force Majeure: The Lasting Fight In The Wake Of Coronavirus , Forbes,-0.3818,0.224,0.776,0.0
+92,CBA,2020-02-12,Coronavirus spread looms as a risk for Commonwealth Bank as profit falls , ABC News,0.0516,0.253,0.548,0.199
+93,CBA,2020-04-03,Why Commonwealth Bank shares are a no-brainer for income investors , Motley Fool Australia,0.296,0.0,0.784,0.216
+94,CBA,2020-04-13,Stephon Marbury’s Wild Ride on the Front End of the Coronavirus Pandemic , The Wall Street Journal,0.0,0.0,1.0,0.0
+95,CBA,2020-03-31,Is it time to fix your home loan? , Savings.com.au,0.0,0.0,1.0,0.0
+96,CBA,2020-03-22,Australia announces second coronavirus package worth $66 billion , Motley Fool Australia,0.2263,0.0,0.787,0.213
+97,CBA,2020-03-20,Australian small businesses to get loan relief amid COVID-19 outbreak , SBS News,0.4767,0.0,0.744,0.256
+98,CBA,2020-03-25,Aussie stocks gain second day of growth since virus crisis began , 9News,0.2263,0.227,0.442,0.331
+99,CBA,2020-04-02,Which banks have special term deposit rates during COVID-19? , Savings.com.au,0.4019,0.0,0.748,0.252
+0,ANZ,2020-03-24,ANZ signals further relief for customers during crisis , 6PR,-0.25,0.311,0.455,0.235
+1,ANZ,2020-03-20,"The big four banks are letting borrowers hit pause on their payments, but this is no mortgage holiday ", ABC News,0.1901,0.125,0.716,0.159
+2,ANZ,2020-04-04,'Australia won't look the same': ANZ's Elliott warns coronavirus impact will be generational , The Age,-0.1027,0.104,0.896,0.0
+3,ANZ,2020-04-16,Coronavirus infecting property sentiment: ANZ , Property Observer,0.0,0.0,1.0,0.0
+4,ANZ,2020-03-24,Big bank coronavirus support: How to defer your mortgage repayments , Mozo.com.au,0.128,0.171,0.62,0.209
+5,ANZ,2020-04-17,Fitch Revises Outlook on ANZ Vietnam to Stable on Coronavirus Pandemic Risk; Affirms at 'BB' , Fitch Ratings,0.0258,0.121,0.751,0.127
+6,ANZ,2020-04-06,ANZ CEO Shayne Elliott answers your banking questions , Herald Sun,0.0,0.0,1.0,0.0
+7,ANZ,2020-03-27,EUR/USD: Coronavirus to keep any upside capped – ANZ , FXStreet,0.0,0.0,1.0,0.0
+8,ANZ,2020-03-26,Are banks freezing mortgages? Here are the banks putting payments on hold amid coronavirus , ABC News,-0.1027,0.097,0.903,0.0
+9,ANZ,2020-03-20,"Big bank emergency support: How have CommBank, NAB, Westpac and ANZ responded to the latest RBA cut? ", Mozo.com.au,-0.25,0.22,0.654,0.126
+10,ANZ,2020-04-15,"Businesses will be hit from coronavirus shutdown, says ANZ CEO Shayne Elliott ", The Australian,0.0,0.0,1.0,0.0
+11,ANZ,2020-03-31,Banks to defer loan repayments for six months due to coronavirus crisis , Savings.com.au,-0.743,0.387,0.613,0.0
+12,ANZ,2020-03-19,Big four banks set to announce coronavirus package , 7NEWS.com.au,0.0,0.0,1.0,0.0
+13,ANZ,2020-04-14,Coronavirus support: What the Big Four banks are offering households and businesses , The New Daily,0.4019,0.0,0.803,0.197
+14,ANZ,2020-03-26,Coronavirus pushes up contactless payment limit to contain virus spread , 7NEWS.com.au,0.0,0.0,1.0,0.0
+15,ANZ,2020-04-06,Coronavirus claims Ensemble Travel Group's ANZ business , Travel Weekly,0.0,0.0,1.0,0.0
+16,ANZ,2020-03-26,ANZ’s Shayne Elliott says banks ‘can’t save everyone’ from the coronavirus crisis hit , The Australian,-0.2263,0.224,0.601,0.175
+17,ANZ,2020-04-07,Fitch Downgrades ANZ to 'A+' on Coronavirus Risks; Outlook Negative , Fitch Ratings,-0.7003,0.42,0.58,0.0
+18,ANZ,2020-03-31,Coronavirus bank loans: what’s on offer for Australian home owners and small business , The Guardian,0.0,0.0,1.0,0.0
+19,ANZ,2020-04-15,Man unwittingly becomes poster boy for coronavirus isolation after starring in stock photoshoot , ABC News,-0.4019,0.184,0.816,0.0
+20,ANZ,2020-03-26,ANZ chief executive hopes to win back public trust as banks offer relief to mortgage-holders - Mornings , ABC News,0.9186,0.0,0.48,0.52
+21,ANZ,2020-04-03,Coronavirus puts blue-chip dividends under the microscope , The Australian Financial Review,0.0,0.0,1.0,0.0
+22,ANZ,2020-04-02,"Banks drag Australian market lower, IMF warns wartime measures are needed due to coronavirus fallout ", ABC News,-0.5423,0.314,0.686,0.0
+23,ANZ,2020-04-01,ANZ takes pre-virus mortgage hit , Mortgage Business,0.0,0.0,1.0,0.0
+24,ANZ,2020-03-30,AFL secures financial help from banks as impact of coronavirus pandemic hits home , ABC News,0.6124,0.0,0.688,0.312
+25,ANZ,2020-03-30,Banks try to stop wave of evictions with loan delays for landlords , Sydney Morning Herald,-0.296,0.167,0.833,0.0
+26,ANZ,2020-04-14,Coronavirus mortgage repayment relief and support packages , finder.com.au,0.7003,0.0,0.463,0.537
+27,ANZ,2020-03-24,New data shows massive increases - and decreases - in consumer spending due to COVID-19 , Savings.com.au,0.0,0.0,1.0,0.0
+28,ANZ,2020-03-31,ABA expands COVID-19 relief for businesses , Australian Broker,0.5423,0.0,0.471,0.529
+29,ANZ,2020-03-24,How Australian banks are responding to coronavirus - Business Insider , Business Insider Nordic,0.0,0.0,1.0,0.0
+30,ANZ,2020-04-08,How the pandemic will affect spending in five key areas , The New Daily,0.0,0.0,1.0,0.0
+31,ANZ,2020-04-15,Australians have stopped hoarding groceries. This is what’s next , The New Daily,-0.2263,0.192,0.808,0.0
+32,ANZ,2020-04-09,ANZ chief defends right of Australian banks to pay dividends , Financial Times,-0.1027,0.135,0.865,0.0
+33,ANZ,2020-04-18,A huge hole in dentists' business sees many seek financial help , The Age,0.6124,0.0,0.615,0.385
+34,ANZ,2020-04-02,CBA to forgive credit card defaults , The Australian Financial Review,0.5719,0.0,0.46,0.54
+35,ANZ,2020-04-04,Banks urged to 'stretch' to help crisis customers , The Age,-0.34,0.32,0.469,0.211
+36,ANZ,2020-03-24,ANZ , Roy Morgan Research,0.0,0.0,1.0,0.0
+37,ANZ,2020-04-01,"'Don't ask, don't get': Mortgage holders urged to press banks ", 9News,0.0,0.0,1.0,0.0
+38,ANZ,2020-03-31,Loo paper hoarding is over - it's time now for a drink and a new home office , The Age,0.0,0.0,1.0,0.0
+39,ANZ,2020-03-25,The industries still hiring amid the coronavirus pandemic , The New Daily,0.0,0.0,1.0,0.0
+40,ANZ,2020-03-23,ANZ on Australia's fiscal response for coronavirus economic relief - material and unprecedented , ForexLive,0.4767,0.0,0.78,0.22
+41,ANZ,2020-04-15,Everything To Know About Your Mortgage And Rent Payments During Covid-19 , GQ Australia,0.0,0.0,1.0,0.0
+42,ANZ,2020-04-14,Indonesia: IDR stability should reopen the door for further rate cuts – ANZ , FXStreet,-0.296,0.167,0.833,0.0
+43,ANZ,2020-04-16,Coronavirus Sees CBA Automatically Cut Mortgage Payments to Minimum , Canstar,-0.2732,0.208,0.792,0.0
+44,ANZ,2020-03-25,Westpac predicts unemployment will hit 11% by June , Savings.com.au,-0.4404,0.293,0.707,0.0
+45,ANZ,2020-03-23,Australia's economic rescue package is a step in the right direction – but we needed a leap , The Guardian,0.2846,0.0,0.858,0.142
+46,ANZ,2020-04-06,"ASX 200 lunch update: ANZ & SEEK higher, Webjet tumbles ", Motley Fool Australia,0.0,0.0,1.0,0.0
+47,ANZ,2020-03-24,NRL eyes off slice of $810 million allocated for ANZ Stadum upgrade , Fox Sports,0.0,0.0,1.0,0.0
+48,ANZ,2020-04-07,"ASX drops as coronavirus hits job market, shrugs off Dow Jones surge ", ABC News,0.0,0.0,1.0,0.0
+49,ANZ,2020-04-03,375000 join big banks' COVID-19 loan holiday , The Australian Financial Review,0.5994,0.0,0.505,0.495
+50,ANZ,2020-04-02,Australian banks face calls to scrap dividends during coronavirus crisis , The New Daily,-0.6249,0.313,0.687,0.0
+51,ANZ,2020-04-15,"Camping store Aussie Disposals collapses under coronavirus, bushfires pressure ", Sydney Morning Herald,-0.5267,0.386,0.614,0.0
+52,ANZ,2020-03-20,Coronavirus shuts down ACCC cross-examinations in landmark ANZ cartel case , Lawyerly,0.0772,0.0,0.874,0.126
+53,ANZ,2020-03-23,Apollo 'preferred' for ANZ's UDC Finance post-auction , The Australian Financial Review,0.0,0.0,1.0,0.0
+54,ANZ,2020-03-26,Australian share market slumps ahead of global rescue plan to fight coronavirus , ABC News,0.4404,0.152,0.526,0.322
+55,ANZ,2020-04-07,Four-hour wait on ANZ bank call centre has customer fuming , Courier Mail,-0.5719,0.291,0.709,0.0
+56,ANZ,2020-03-25,"Covid-19 coronavirus: Six-month mortgage holiday will increase loans, but people will keep their homes, Robertson says ", New Zealand Herald,0.3612,0.0,0.8,0.2
+57,ANZ,2020-03-25,"ASX 200 lunch update: ANZ & Qantas rocket, Cochlear halted ", Motley Fool Australia,0.0,0.0,1.0,0.0
+58,ANZ,2020-03-27,Coronavirus crisis job losses will raise mortgage stress more than the GFC did: analysts , ABC News,-0.8625,0.466,0.534,0.0
+59,ANZ,2020-03-21,THE NEW ABNORMAL: Day 57 of the coronavirus crisis , 7NEWS.com.au,-0.6249,0.339,0.661,0.0
+60,ANZ,2020-03-30,Q&A: Elliott on balancing the intensive care with recovery , BlueNotes,0.4939,0.0,0.714,0.286
+61,ANZ,2020-03-25,More banks ban borrowers and cut back on rate and fee promotions , The Australian Financial Review,-0.7165,0.374,0.626,0.0
+62,ANZ,2020-04-01,"'Job Keeper' allowance: Details of $1,500 coronavirus wage subsidy revealed ", Savings.com.au,0.0,0.0,1.0,0.0
+63,ANZ,2020-03-24,Why the Big Four Banks may be about to slash their dividends , ig.com,-0.2732,0.16,0.84,0.0
+64,ANZ,2020-03-23,NAB's Anthony Healy quits after leading virus response team , The Australian Financial Review,0.0,0.0,1.0,0.0
+65,ANZ,2020-03-20,Coronavirus: ANZ Premiership netball season postponed for two weeks | Netball News , The Union Journal,-0.2023,0.153,0.847,0.0
+66,ANZ,2020-04-16,New Zealand CPI Preview: Downhill from here – ANZ , FXStreet,0.0,0.0,1.0,0.0
+67,ANZ,2020-04-17,Staggering 82 per cent of workers say pandemic has impacted their job roles , NT News,0.0,0.0,1.0,0.0
+68,ANZ,2020-04-07,Why the Big Four Banks may suspend or reduce their dividends , ig.com,-0.3182,0.187,0.813,0.0
+69,ANZ,2020-04-08,Ex-union boss to advise ANZ board amid lay offs , Australian Aviation,0.0,0.0,1.0,0.0
+70,ANZ,2020-03-31,Coronavirus: Banks put up options for customers facing hardship , Newshub,-0.3182,0.223,0.777,0.0
+71,ANZ,2020-03-30,Analysts believe banks can withstand coronavirus shock but high debt levels leave few buffers , ABC News,-0.6542,0.366,0.634,0.0
+72,ANZ,2020-04-08,Coronavirus JobKeeper package to be passed in Parliament , Savings.com.au,0.0,0.0,1.0,0.0
+73,ANZ,2020-03-27,"ANZ NZ cutting credit card, personal loan and overdraft interest rates from April 1, although some will rise almost all the way back to where they are now in July ", Interest.co.nz,0.6249,0.044,0.792,0.164
+74,ANZ,2020-04-08,13.25% trailing dividend yield: Is the ANZ share price a buy? , Motley Fool Australia,0.296,0.0,0.804,0.196
+75,ANZ,2020-04-14,Consumer confidence up but clouds gather , NEWS.com.au,0.2846,0.0,0.699,0.301
+76,ANZ,2020-03-24,"Consumer confidence tumbles amid coronavirus pandemic, Australian share market makes gains despite falls on Wall Street ", ABC News,0.7845,0.0,0.622,0.378
+77,ANZ,2020-03-20,"ASX ends week 13pc lower, rocked by coronavirus uncertainty ", The Australian Financial Review,-0.5574,0.397,0.603,0.0
+78,ANZ,2020-04-15,Can construction industry lead ACT's coronavirus bounce-back? , The Canberra Times,0.0,0.0,1.0,0.0
+79,ANZ,2020-03-27,Who's Hiring Rather Than Firing During The Coronavirus Pandemic , 10 daily,-0.34,0.231,0.769,0.0
+80,ANZ,2020-03-26,Aussies demand rent and mortgage freeze , Daily Examiner,-0.0772,0.224,0.597,0.179
+81,ANZ,2020-04-03,"Citing coronavirus, judge orders limited discovery in ANZ, Westpac 'junk' insurance class actions ", Lawyerly,-0.2263,0.137,0.863,0.0
+82,ANZ,2020-04-06,Waking up to a different world , BlueNotes,0.0,0.0,1.0,0.0
+83,ANZ,2020-03-19,Some good news as NSW COVID tally jumps above 300 , 7NEWS.com.au,0.4404,0.0,0.756,0.244
+84,ANZ,2020-03-25,LIVE: ‘What if a player dies?’ - NRL’s pandemic expert says league won’t return in 2020 , Fox Sports,0.0,0.0,1.0,0.0
+85,ANZ,2020-04-03,Coronavirus sees retail sales rise in February as Australians stockpiled groceries and pharmaceuticals but clothing sales fell , ABC News,0.0,0.0,1.0,0.0
+86,ANZ,2020-03-30,"Coronavirus update: Global death toll exceeds 30,000, US expert says country could face 200,000 deaths, Australian wage subsidy announced ", ABC News,-0.5994,0.178,0.822,0.0
+87,ANZ,2020-03-25,ANZ pledges $1.5m to community partners supporting Australia's most vulnerable , Mirage News,0.1796,0.167,0.611,0.221
+88,ANZ,2020-04-15,NZD/AUD: Looking very soft – ANZ , FXStreet,0.0,0.0,1.0,0.0
+89,ANZ,2020-04-16,Unemployment figures are lagging the true pain in Western Australia amid the coronavirus lockdown , ABC News,-0.6705,0.393,0.474,0.133
+90,ANZ,2020-03-31,Should you withdraw from your superannuation during COVID-19? , Savings.com.au,0.0,0.0,1.0,0.0
+91,ANZ,2020-04-17,Two new COVID-19 deaths in New Zealand , NEWS.com.au,0.0,0.0,1.0,0.0
+92,ANZ,2020-03-27,Coronavirus: ANZ Premiership's bold visions for 2020 thrown into disarray , Stuff.co.nz,0.5423,0.0,0.64,0.36
+93,ANZ,2020-04-17,Three coronavirus vaccines approved for trials in China | Leadership , Business Chief Australia,0.4215,0.0,0.741,0.259
+94,ANZ,2020-03-21,Majors respond to RBA's emergency rate cut , Your Mortgage,-0.5719,0.485,0.515,0.0
+95,ANZ,2020-04-16,Bendigo Drops Guidance As Macquarie Analysts Warn On Banks , ShareCafe,-0.1027,0.149,0.851,0.0
+96,ANZ,2020-03-26,Will ASX banks be forced to close branches during the coronavirus crisis? , The Motley Fool Australia,-0.7964,0.415,0.585,0.0
+97,ANZ,2020-03-23,Australians have plenty of places to turn to get free financial assistance in the coming months , Daily Telegraph,0.5106,0.0,0.82,0.18
+98,ANZ,2020-03-19,March emergency RBA cut: Which banks have cut home loans and where do rates sit? , Mozo.com.au,-0.7003,0.362,0.638,0.0
+99,ANZ,2020-04-07,"Coronavirus economic downturn dashes bank dividend hopes, says UBS ", The Australian,0.4215,0.0,0.741,0.259
+0,Westpac,2020-04-16,Riskier funds have been exposed by coronavirus: Westpac , The Australian Financial Review,-0.4019,0.381,0.619,0.0
+1,Westpac,2020-04-14,"Westpac flags $1.4b hit to earnings, braces for coronavirus impact ", Sydney Morning Herald,0.0,0.0,1.0,0.0
+2,Westpac,2020-04-15,Westpac survey reveals coronavirus caused consumer confidence to fall , NEWS.com.au,0.5106,0.0,0.708,0.292
+3,Westpac,2020-04-18,What help is available for household debt , The Mercury,0.0516,0.245,0.49,0.265
+4,Westpac,2020-03-20,"The big four banks are letting borrowers hit pause on their payments, but this is no mortgage holiday ", ABC News,0.1901,0.125,0.716,0.159
+5,Westpac,2020-04-18,Australia’s banks offer coronavirus relief for small businesses , NEWS.com.au,0.4767,0.0,0.693,0.307
+6,Westpac,2020-04-11,Coronavirus Australia: Westpac's economic forecast predicts deep recession , NEWS.com.au,-0.4215,0.286,0.714,0.0
+7,Westpac,2020-04-16,Confidence in Australian property market suffers biggest monthly fall in 47 years: Westpac , Domain News,0.0516,0.178,0.632,0.19
+8,Westpac,2020-03-23,"Coronavirus ASX: Coles, BHP Up, CBA, Westpac, NAB, Afterpay Fall ", Canstar,0.0,0.0,1.0,0.0
+9,Westpac,2020-04-17,Coronavirus by the numbers , Inside Retail,0.0,0.0,1.0,0.0
+10,Westpac,2020-04-02,Westpac Banking : Australia's Westpac gives acting CEO two years to tackle coronavirus crisis , Marketscreener.com,-0.6249,0.255,0.745,0.0
+11,Westpac,2020-04-06,Victoria and NSW face deepest recession from virus: Westpac , Sydney Morning Herald,-0.4215,0.259,0.741,0.0
+12,Westpac,2020-03-19,Big four banks set to announce coronavirus package , 7NEWS.com.au,0.0,0.0,1.0,0.0
+13,Westpac,2020-03-20,Big banks may allow up to six months in deferred mortgage repayments , Sydney Morning Herald,0.2263,0.0,0.853,0.147
+14,Westpac,2020-03-25,Westpac predicts unemployment will hit 11% by June , Savings.com.au,-0.4404,0.293,0.707,0.0
+15,Westpac,2020-03-26,Are banks freezing mortgages? Here are the banks putting payments on hold amid coronavirus , ABC News,-0.1027,0.097,0.903,0.0
+16,Westpac,2020-04-15,Tasmania Police to use Westpac Rescue Helicopter to continue monitoring North-West residents' coronavirus compliance , The Advocate,0.5106,0.0,0.798,0.202
+17,Westpac,2020-04-14,"French death toll surges; global deaths top 133,000 ", The Australian Financial Review,-0.4767,0.333,0.513,0.154
+18,Westpac,2020-03-26,Coronavirus pushes up contactless payment limit to contain virus spread , 7NEWS.com.au,0.0,0.0,1.0,0.0
+19,Westpac,2020-04-18,Coronavirus forces unemployed Australians to adapt to survive , NEWS.com.au,0.0,0.0,1.0,0.0
+20,Westpac,2020-03-24,Big bank coronavirus support: How to defer your mortgage repayments , Mozo.com.au,0.128,0.171,0.62,0.209
+21,Westpac,2020-04-16,Is the Westpac share price a buy now? , Motley Fool Australia,0.296,0.0,0.732,0.268
+22,Westpac,2020-04-14,Coronavirus mortgage repayment relief and support packages , finder.com.au,0.7003,0.0,0.463,0.537
+23,Westpac,2020-04-16,Coronavirus Australia: Australian share market plunges , NEWS.com.au,0.296,0.0,0.694,0.306
+24,Westpac,2020-04-15,ASX closes lower as consumer sentiment plunges to 30-year low , ABC News,-0.5106,0.35,0.65,0.0
+25,Westpac,2020-04-02,"Banks drag Australian market lower, IMF warns wartime measures are needed due to coronavirus fallout ", ABC News,-0.5423,0.314,0.686,0.0
+26,Westpac,2020-03-23,Westpac Bank loan processing hit by offshore virus shutdown , The Australian Financial Review,0.0,0.0,1.0,0.0
+27,Westpac,2020-03-31,Banks to defer loan repayments for six months due to coronavirus crisis , Savings.com.au,-0.743,0.387,0.613,0.0
+28,Westpac,2020-03-24,"NAB, Westpac and Commonwealth bank to close bank branches due to coronavirus ", Daily Mail,0.0,0.0,1.0,0.0
+29,Westpac,2020-04-03,375000 join big banks' COVID-19 loan holiday , The Australian Financial Review,0.5994,0.0,0.505,0.495
+30,Westpac,2020-04-15,Why this top broker still rates Westpac a “buy” despite its $1.4bn profit warning , Motley Fool Australia,-0.4599,0.289,0.602,0.108
+31,Westpac,2020-04-07,"Coronavirus crisis has had staggering impact on Australian businesses, data reveals ", The Guardian,-0.6249,0.291,0.709,0.0
+32,Westpac,2020-04-13,"Unemployment rate predicted to reach 10 per cent amid coronavirus pandemic, pushing Australia into recession ", ABC News,-0.6808,0.303,0.638,0.059
+33,Westpac,2020-03-24,Westpac launches new low-cost SME offering , Mortgage Business,0.0,0.0,1.0,0.0
+34,Westpac,2020-04-11,Tasmania Police catch more COVID-19 rule breakers , Tasmania Examiner,0.0,0.0,1.0,0.0
+35,Westpac,2020-03-25,Coronavirus: Customers urged to bank remotely during lockdown period , Newshub,0.0,0.0,1.0,0.0
+36,Westpac,2020-03-24,What to do if you lose your job during the coronavirus crisis , The New Daily,-0.7783,0.405,0.595,0.0
+37,Westpac,2020-03-25,Coronavirus Australia latest: 25 March at a glance , The Guardian,0.0,0.0,1.0,0.0
+38,Westpac,2020-04-08,"ASX falls as coronavirus rally fades, Dow Jones gives up 900-point surge ", ABC News,0.0,0.0,1.0,0.0
+39,Westpac,2020-04-07,"Fallout from Coronavirus Drives Downgrades of Large Australia, NZ Banks ", Fitch Ratings,0.0,0.0,1.0,0.0
+40,Westpac,2020-03-31,Coronavirus bank loans: what’s on offer for Australian home owners and small business , The Guardian,0.0,0.0,1.0,0.0
+41,Westpac,2020-03-24,How Australian banks are responding to coronavirus - Business Insider , Business Insider Nordic,0.0,0.0,1.0,0.0
+42,Westpac,2020-03-19,"CBA, NAB and Westpac hike term deposit rates to help Aussie economy as Covid-19 hits ", Starts at 60,0.4019,0.0,0.838,0.162
+43,Westpac,2020-03-31,ABA expands COVID-19 relief for businesses , Australian Broker,0.5423,0.0,0.471,0.529
+44,Westpac,2020-04-09,Westpac supports Government Loan Guarantee Scheme , Mirage News,0.5423,0.0,0.471,0.529
+45,Westpac,2020-03-20,How the big four banks are responding to the coronavirus crisis , RateCity,-0.6249,0.291,0.709,0.0
+46,Westpac,2020-04-08,Coronavirus: Can landlord insurance help? , finder.com.au,0.4019,0.0,0.597,0.403
+47,Westpac,2020-04-05,Coronavirus: Australian banks rolling out debt relief for small business owners , NEWS.com.au,0.1531,0.171,0.616,0.212
+48,Westpac,2020-04-13,'Curve flattening' for big bank stimulus , The Australian Financial Review,0.0,0.0,1.0,0.0
+49,Westpac,2020-03-31,Money Laundering and Terrorist Financing Tars Westpac During Coronavirus Crisis , Sovereign Wealth Fund Institute,-0.8689,0.524,0.476,0.0
+50,Westpac,2020-04-15,The coronavirus has altered what Australians worry about most , The Age,-0.4404,0.266,0.734,0.0
+51,Westpac,2020-04-02,Westpac chief warns not all borrowers will survive emergency , ABC News,-0.4588,0.364,0.636,0.0
+52,Westpac,2020-04-04,What will the impact of coronavirus be on Sydney's property market? , Domain News,0.0,0.0,1.0,0.0
+53,Westpac,2020-04-14,Coronavirus support: What the Big Four banks are offering households and businesses , The New Daily,0.4019,0.0,0.803,0.197
+54,Westpac,2020-04-03,How drones could be used in the war on COVID-19 , Daily Examiner,-0.5994,0.302,0.698,0.0
+55,Westpac,2020-03-30,Analysts believe banks can withstand coronavirus shock but high debt levels leave few buffers , ABC News,-0.6542,0.366,0.634,0.0
+56,Westpac,2020-04-02,Coronavirus Australia: Wartime measures needed for economy to survive , NEWS.com.au,0.0,0.0,1.0,0.0
+57,Westpac,2020-03-31,Is it time to fix your home loan? , Savings.com.au,0.0,0.0,1.0,0.0
+58,Westpac,2020-04-18,Covid 19 coronavirus: Couple under financial pressure scammed in car sale , New Zealand Herald,-0.296,0.18,0.82,0.0
+59,Westpac,2020-04-02,ASX drops 2pc as banks slump , The Australian Financial Review,0.0,0.0,1.0,0.0
+60,Westpac,2020-04-12,"'Great Australian' Ted Evans dies, aged 79 ", The Australian Financial Review,0.6249,0.0,0.594,0.406
+61,Westpac,2020-03-26,Fears PM's coronavirus welfare plan will see Australia's unemployment rate skyrocket , ABC News,-0.6908,0.388,0.612,0.0
+62,Westpac,2020-04-03,Coronavirus: Stimulus defended as unemployment rate climbs , The Canberra Times,-0.4404,0.326,0.674,0.0
+63,Westpac,2020-04-03,"Citing coronavirus, judge orders limited discovery in ANZ, Westpac 'junk' insurance class actions ", Lawyerly,-0.2263,0.137,0.863,0.0
+64,Westpac,2020-04-16,Coronavirus: One in five depressed most or all of the time , The Australian,-0.5106,0.248,0.752,0.0
+65,Westpac,2020-04-07,Why the Big Four Banks may suspend or reduce their dividends , ig.com,-0.3182,0.187,0.813,0.0
+66,Westpac,2020-04-14,Brian Hartzer’s eyes still on Westpac dividends , The Australian,0.0,0.0,1.0,0.0
+67,Westpac,2020-04-01,Coronavirus: Another sign the ASX banks will probably cut dividends , Motley Fool Australia,-0.2732,0.189,0.811,0.0
+68,Westpac,2020-04-13,Shoppers ignoring coronavirus rules 'helped force closures' , The Advocate,-0.4019,0.31,0.69,0.0
+69,Westpac,2020-03-21,THE NEW ABNORMAL: Day 57 of the coronavirus crisis , 7NEWS.com.au,-0.6249,0.339,0.661,0.0
+70,Westpac,2020-04-12,Coronavirus: Are the big ASX banks a buy for dividends? , Motley Fool Australia,0.0,0.0,1.0,0.0
+71,Westpac,2020-04-01,"'Don't ask, don't get': Mortgage holders urged to press banks ", 9News,0.0,0.0,1.0,0.0
+72,Westpac,2020-04-03,Flattening the curve 'is happening' , The Australian Financial Review,0.0,0.0,1.0,0.0
+73,Westpac,2020-04-02,CommBank offers further coronavirus relief to home loan and credit card customers , Mozo.com.au,0.6908,0.0,0.637,0.363
+74,Westpac,2020-03-24,Why the Big Four Banks may be about to slash their dividends , ig.com,-0.2732,0.16,0.84,0.0
+75,Westpac,2020-04-14,Housing finance slips ahead of shutdown: Westpac's Matthew Hassan , Property Observer,0.0,0.0,1.0,0.0
+76,Westpac,2020-04-06,"Westpac cautions against COVID-19 scams, assures security guarantee ", IBS Intelligence,0.2263,0.262,0.276,0.462
+77,Westpac,2020-03-26,"Coronavirus: What we know today, March 26 ", InDaily,0.0,0.0,1.0,0.0
+78,Westpac,2020-03-30,15% dividend yield: Is the Westpac share price a buy? , Motley Fool Australia,0.296,0.0,0.784,0.216
+79,Westpac,2020-03-25,Coronavirus restrictions tipped to send Australian house prices tumbling , The Guardian,0.0,0.0,1.0,0.0
+80,Westpac,2020-04-01,Coronavirus Australia live updates: Five workers in remote Kimberley test positive , The Australian,0.5574,0.0,0.735,0.265
+81,Westpac,2020-04-05,Australia's economy will change post pandemic: Westpac CEO , NEWS.com.au,0.0,0.0,1.0,0.0
+82,Westpac,2020-03-21,"Coronavirus: 10.2% dividend yield, is the CBA share price a buy? ", Motley Fool Australia,0.296,0.0,0.804,0.196
+83,Westpac,2020-03-24,ASX rises 4.2pc; Afterpay rebounds , The Australian Financial Review,0.0,0.0,1.0,0.0
+84,Westpac,2020-03-25,Stimulus packages and economic response to the coronavirus (COVID-19) to assist Australian businesses , Lexology,0.0,0.0,1.0,0.0
+85,Westpac,2020-03-21,Majors respond to RBA's emergency rate cut , Your Mortgage,-0.5719,0.485,0.515,0.0
+86,Westpac,2020-04-01,Westpac: Job losses set to surge despite ‘game-chaging’ JobKeeper payment , Courier Mail,-0.4019,0.231,0.769,0.0
+87,Westpac,2020-04-14,Coronavirus precautions put 43 NW police off duty , The Advocate,0.0,0.0,1.0,0.0
+88,Westpac,2020-03-26,Australian share market slumps ahead of global rescue plan to fight coronavirus , ABC News,0.4404,0.152,0.526,0.322
+89,Westpac,2020-03-25,Coronavirus: Star Casino stands down 8100 after government ban on gatherings , 9News,-0.5574,0.265,0.735,0.0
+90,Westpac,2020-04-02,Coronavirus: Global ratings agency Moody’s downgrades credit outlook for Australian banking system , The Australian,0.3818,0.0,0.809,0.191
+91,Westpac,2020-04-16,Unemployment rises to 5.2 per cent in March but full impact of coronavirus yet to show , ABC News,-0.2382,0.115,0.885,0.0
+92,Westpac,2020-04-01,"'Job Keeper' allowance: Details of $1,500 coronavirus wage subsidy revealed ", Savings.com.au,0.0,0.0,1.0,0.0
+93,Westpac,2020-03-25,"Covid-19 coronavirus: Six-month mortgage holiday will increase loans, but people will keep their homes, Robertson says ", New Zealand Herald,0.3612,0.0,0.8,0.2
+94,Westpac,2020-04-14,ASX surges 1.9pc to enter new bull market , The Australian,0.0,0.0,1.0,0.0
+95,Westpac,2020-03-26,Coronavirus Australia: Colette announces mass closures , NEWS.com.au,0.0,0.0,1.0,0.0
+96,Westpac,2020-03-23,ScoMo and Josh take on COVID-19 , Switzer Financial News,0.0,0.0,1.0,0.0
+97,Westpac,2020-03-25,"Deficit to reach $160b, $250b in fresh debt ", The Australian Financial Review,-0.4215,0.413,0.317,0.27
+98,Westpac,2020-03-27,Westpac forecasts unemployment will climb by 200000 , Stuff.co.nz,-0.4404,0.326,0.674,0.0
+99,Westpac,2020-03-21,Household tools to surivive the financial impact of coronavirus , Stuff.co.nz,0.0,0.0,1.0,0.0
